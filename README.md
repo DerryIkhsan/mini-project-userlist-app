@@ -5,6 +5,9 @@ Ini adalah mini project aplikasi flutter, dimana dalam aplikasi ini menampilkan 
 Untuk menginstall aplikasi ini, silahkan download file apk-release.apk yang terdapat pada folder release.
 
 ## tampilan aplikasi
+Berikut ini adalah tampilan dari aplikasi flutter mini project userlist
+<br>
+<br>
 <div>
   <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/performance.jpeg" width="225" height="425">
   <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/chamber.jpeg" width="225" height="425">
