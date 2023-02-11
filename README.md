@@ -1,21 +1,19 @@
-## flutter mini project userlist
+## Flutter Mini Project Userlist
 Ini adalah mini project aplikasi flutter, dimana dalam aplikasi ini menampilkan beberapa user list yang diambil dari api reqres.in
 
-## installasi apk release
+## Installasi Apk Release
 Untuk menginstall aplikasi ini, silahkan download file apk-release.apk yang terdapat pada folder release.
 
-## tampilan aplikasi
-Berikut ini adalah tampilan dari aplikasi flutter mini project userlist
+## Tampilan Aplikasi
+Berikut ini adalah tampilan dari aplikasi flutter mini project userlist.
 <br>
 <br>
 <div>
-  <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/performance.jpeg" width="225" height="425">
-  <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/chamber.jpeg" width="225" height="425">
-  <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/pcr.jpeg" width="225" height="425">
+  <img alt="img" src="https://github.com/DerryIkhsan/mini-project-userlist-app/blob/master/result/list_user.jpeg" width="225" height="425">
+  <img alt="img" src="https://github.com/DerryIkhsan/mini-project-userlist-app/blob/master/result/single_user.jpeg" width="225" height="425">
 </div>
 <br>
 <div>
-  <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/booking_app.jpeg" width="225" height="425">
-  <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/commerce_app.jpeg" width="225" height="425">
-  <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/course_app.jpeg" width="225" height="425">
+  <img alt="img" src="https://github.com/DerryIkhsan/mini-project-userlist-app/blob/master/result/create.jpeg" width="225" height="425">
+  <img alt="img" src="https://github.com/DerryIkhsan/mini-project-userlist-app/blob/master/result/about.jpeg" width="225" height="425">
 </div>
